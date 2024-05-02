@@ -10,13 +10,13 @@ Desenvolvimento de um App Web completo, fornecendo recursos como criação, leit
 
 ## Participantes
 ### 🚀 Capitão
-[NOME e GITHUB]
+VetorPedro
 
 ### 💂‍♀️ Batalhão
-* [NOME e GITHUB]
-* [NOME e GITHUB]
-* [NOME e GITHUB]
-* [NOME e GITHUB]
+* samuelcdias
+* DiegoTelis
+* ssantiago121 
+* walvesribeiro
 
 ## ⚙️ Tecnologias
 * C# 12
@@ -26,6 +26,7 @@ Desenvolvimento de um App Web completo, fornecendo recursos como criação, leit
 * Blazor WebAssembly
 * HTML
 * CSS
+* .NET MAUIBlazor Hybrid
 
 ## 🥋 Skills Desenvolvidas
 * Comunicação
